@@ -5,7 +5,7 @@ using System.IO;
 
 namespace EmployeeManagementSystem
 {
-    // Main Program Class
+    
     class Program
     {
         // Main method - entry point of the application
